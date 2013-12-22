@@ -1,0 +1,1 @@
+The UML diagram has been developed using the Violet UML editor (http://sourceforge.net/projects/violet/)
