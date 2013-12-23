@@ -14,4 +14,4 @@ OPDL shall facilititate the exchange of podcast information between various plat
 
 In the first step, OPDL comprises two areas:
 * A UML model 
-* A description of all data types in ASN.1 notation
+* A description of all data types in form of an XML schema
